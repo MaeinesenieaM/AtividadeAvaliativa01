@@ -4,7 +4,6 @@
 int main ()
 {
 	float A, B, C;
-	int ERR = 0;
 
 	setlocale (LC_ALL, "Portuguese");
 
