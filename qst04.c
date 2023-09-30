@@ -56,9 +56,10 @@ int main ()
 		{
 			printf ("Os valores pertencem a um Triângulo escaleno.\n");
 		}
-	} else { printf ("Os valores dados são invalidos para um triângulo.\n"); }
+		printf ("\nÂngulo Encontrado -> %.f\n", angulomax);
+	} else { printf ("\n!!Os valores dados são invalidos para um Triângulo!!\n"); }
 
-	printf ("\nÂngulo Encontrado -> %.f\n", angulomax);
+	
 
 	printf ("\n\n    __o  bici! \n  _/><_ \n (_)/(_) \n  ");
 

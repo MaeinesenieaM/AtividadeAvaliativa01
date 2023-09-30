@@ -28,7 +28,7 @@ int main ()
 		{
 			printf ("Os valores são de um Triângulo escaleno.");
 		}
-	} else { printf ("Os valores dados são invalidos para um triângulo."); }
+	} else { printf ("\n!!Os valores dados são invalidos para um Triângulo!!\n"); }
 
 	printf ("\n\n    __o  bici! \n  _/><_ \n (_)/(_) \n  ");
 
